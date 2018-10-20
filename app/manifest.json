@@ -3,7 +3,7 @@
   "short_name": "MWS Stage 2",
   "theme_color": "#252831",
   "background_color": "#2196f3",
-  "display": "browser",
+  "display": "standalone",
   "Scope": "/",
   "start_url": "/index.html",
   "icons": [
