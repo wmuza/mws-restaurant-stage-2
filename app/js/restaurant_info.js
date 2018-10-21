@@ -106,7 +106,7 @@ const fillRestaurantHTML = (restaurant = self.restaurant) => {
   // fill reviews
   fillReviewsHTML();
 };
-
+ 
 /**
  * Create restaurant operating hours HTML table and add it to the webpage.
  */

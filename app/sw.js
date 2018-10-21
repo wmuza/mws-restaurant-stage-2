@@ -1,7 +1,7 @@
 if (typeof idb === "undefined") {
         self.importScripts('js/idb.js');
     }
-
+ 
 const staticCacheName = 'restaurant-static-14';
 
 const dbPromise = idb.open('mws-restaurant-database', 1, upgradeDB => {
