@@ -1,4 +1,3 @@
-# Local Development API Server
 ## Architecture
 Local server
 - Node.js
